@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.Attributes.AttributesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-23T20:29:53" hostname="N-NO-01-01-5025" time="0.024">
+  <properties/>
+  <testcase name="test_getDexterity_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.017"/>
+  <testcase name="test_setStrength_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.0"/>
+  <testcase name="test_getLevelAttribute_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.0"/>
+  <testcase name="test_setDexterity_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.001"/>
+  <testcase name="test_getIntelligence_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.001"/>
+  <testcase name="test_getStrength_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.001"/>
+  <testcase name="test_setIntelligence_should_pas()" classname="org.example.Attributes.AttributesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
